@@ -1,0 +1,22 @@
+INISIALISASI PROJECT
+// go mod init nama_project
+
+RUN
+// go run main.go
+// go run main.go library.go
+
+TESTING
+// go test main_test.go
+
+BUILD
+// go build -o namaprogram.exe
+
+DOWNLOAD PACKAGE TERBARU
+// go get -u github.com/segmentio/kafka-go
+
+MEMVALIDASI DEPENDENSI
+// go mod tidy
+
+VENDORING
+// go mod vendoring
+
